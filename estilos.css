@@ -1,0 +1,74 @@
+.foto-perfil{
+    width: 200px;
+    border: 5px double #ececec;
+}
+
+.cabecalho{
+    background-color: lightpink;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-image: url('fundo.jpg');
+    background-size: cover;
+}
+
+.nome{
+    color: white;
+    margin-top: 5px;
+    martin-bottom: 0;
+    font-family: montserrat;
+    font-size: 38px;
+}
+
+.cargo{
+    color: lightsalmon;
+    margin-top: 3px;
+    font-family: montserrat;
+    font-weight: 200;
+    font-size: 22px;
+}
+
+.botao{
+    border: 1px solid lightsalmon;
+    display: block;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    color: lightsalmon;
+    text-decoration: none;
+    font-family: montserrat;
+    border-radius: 5px;
+}
+
+.botao:hover{
+    background-color: salmon;
+    border-color: salmon;
+}
+
+.informacoes{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: whitesmoke;
+    padding-top: 20px;
+}
+
+.titulo{
+    font-family: montserrat;
+    color: lightsalmon;
+    border-bottom: 1px solid;
+    margin-top: 30px;
+    text-transform: uppercase;
+}
+
+.texto-sobre{
+    font-size: 16px;
+    font-family: montserrat;
+    font-weight: 400;
+    color: grey;
+}
